@@ -1,0 +1,11 @@
+aluminium processing
+
+// crush rocks into sand. sand can be used for silicone processing and aluminum 
+rocks -> crusher -> sand
+
+// creating silicone wafer
+sand -> crystal furnace -> wafer
+
+// creating aluminum mix sand and sulphuric acid in chemical plant. creates slush. slush can be melted 
+into aluminum
+sand + acid -> aluminum slush (in chemical plant) -> smelter -> aluminum

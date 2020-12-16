@@ -1,0 +1,9 @@
+{
+    "name": "MrSwipesMod",
+    "version": "0.0.1",
+    "title": "Mr Swipes Mod",
+    "author": "swipe_06",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.0"],
+    "description": "Finished with the base game and want to do more? This mod extends the base game beyond rocketry without changing existing recepies"
+}
