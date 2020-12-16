@@ -8,4 +8,4 @@ sand -> crystal furnace -> wafer
 
 // creating aluminum mix sand and sulphuric acid in chemical plant. creates slush. slush can be melted 
 into aluminum
-sand + acid -> aluminum slush (in chemical plant) -> smelter -> aluminum
+sand + acid -> aluminum slush (in chemical plant) -> slush smelter -> aluminum
